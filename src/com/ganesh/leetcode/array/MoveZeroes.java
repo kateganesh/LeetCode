@@ -57,7 +57,7 @@ public class MoveZeroes {
 			}
 		}
 		
-		for(int i=track; i<nums.length;i++) {
+		for(int i=track; i<nums.length; i++) {
 			nums[i]=0;
 		}
 	}
