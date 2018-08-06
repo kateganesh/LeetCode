@@ -33,8 +33,7 @@ public class LeafSimilarTrees {
 			leafNode(root.left, listRef);
 			leafNode(root.right, listRef);
 		}
-	}
-	
+	}	
 
 }
 
